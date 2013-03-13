@@ -1,7 +1,0 @@
-safe:           false
-server:         true
-auto:           true
-markdown:       maruku
-pygments:       false
-source:         .
-destination:    ./_site
