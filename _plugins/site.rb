@@ -1,5 +1,3 @@
-require 'liquid'
-
 module Jekyll
 
 	PAGES_NAV = { "index" => "/index.html", "photos" => "/photos.html", 
